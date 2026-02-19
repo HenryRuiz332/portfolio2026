@@ -1,0 +1,17 @@
+
+MODELOS
+1 - Cuando se crea o se edita un modelo debe heredar de Timestamp /config/timestamps.py ya 
+que contiene los campos created_at, updated_at, deleted_at y user.
+
+
+IMAGENES
+2 - Todas las imagenes deben estar en la carpeta static/public/images/name_module con su nombre de módulo para asi saber y ubicar las imagenes.
+
+
+API REST
+3 - Para consultas de api donde se necesite devolver la url de la api, esta url esta en earchivo
+.env como API_URL y API_PREFIX.
+
+4 - Para construir urlS de endpoints , siempre se usara el API_PREFIX. Por ejemplo 
+Si necesio una endpoint para consultar una lista de proyectos, la url sera API_PREFIX + "projects/" 
+esto daría como resultado que cuando yo consulte mi api, la url sera /api/v1/projects/.
