@@ -1,0 +1,45 @@
+[
+    {
+        "icon": "https://firebasestorage.googleapis.com/v0/b/portfolio-4af98.appspot.com/o/services%2Fwireframe.svg?alt=media&token=e7756e79-aa20-472c-92f4-66afdff7e0e4",
+        "service": "Diseño Web",
+        "description": "Habilidades para desarrollar sitios web desde el punto inicial, levantamiento de información, análisis y desarrollo de base de datos, diseño y maquetación.",
+        "service_en" : "Web Design",
+        "description_en" : "Skills to develop websites from the initial point, information gathering, analysis and development of databases, design and layout."
+    },
+    {
+        "icon": "https://firebasestorage.googleapis.com/v0/b/portfolio-4af98.appspot.com/o/services%2Fanalitic.svg?alt=media&token=72e8496c-839b-42e5-83b5-5e53b6033a6c",
+        "service": "Análisis",
+        "description": "Estudio los factores que hacen que un sitio web sea efectivo o no, desarrollando diagramas de flujos que permiten visualizar de manera efectiva y agilizan el desarrollo de una aplicación.",
+        "service_en" : "Analysis",
+        "description_en" : "I study the factors that make a website effective or not, developing flowcharts that allow effective visualization and speed up the development of an application."
+    },
+    {
+        "icon": "https://firebasestorage.googleapis.com/v0/b/portfolio-4af98.appspot.com/o/services%2Fcode.svg?alt=media&token=e1e329a7-cc82-4d65-a033-5f1fdd6e18be",
+        "service": "Código Limpio",
+        "description": "Sintaxis de código limpio y documentado. Aplicando patrones que mejoran el rendimiento de las aplicaciones desarrolladas y sean afectivas.",
+        "service_en": "Clean Code",
+        "description_en": "Clean and documented code syntax. Applying patterns that improve the performance of the developed applications and are affective."
+    },
+    {
+        "icon": "https://firebasestorage.googleapis.com/v0/b/portfolio-4af98.appspot.com/o/services%2Fserver.svg?alt=media&token=e4718503-da50-4213-bc54-97ccfce68308",
+        "service": "Servidores",
+        "description": "Despliegue de aplicaciones en Servidores Linux, conocimientos y manejos de Cpanel, Bases de datos, certificados ssl, seguridad web.",
+        "service_en" : "Servers",
+        "description_en": "Deployment of applications on Linux Servers, knowledge and management of Cpanel, Databases, ssl certificates, web security."
+    },
+    {
+        "icon": "https://firebasestorage.googleapis.com/v0/b/portfolio-4af98.appspot.com/o/services%2Freport.svg?alt=media&token=d266b3ff-3ac3-469b-8f63-decb2a6414b1",
+        "service": "Marketing",
+        "description": "Habilidad para el manejo de redes sociales más populares. Conocimiento y experiencia en posicionamiento web. Redacción+, Analitycs +, SEO +, Scraping +.",
+        "service_en" : "Marketing",
+        "description_en" : "Ability to manage the most popular social networks. Knowledge and experience in web positioning. Writing +, Analitycs +, SEO +, Scraping +."
+
+    },
+    {
+        "icon": "https://firebasestorage.googleapis.com/v0/b/portfolio-4af98.appspot.com/o/services%2Fdesign.svg?alt=media&token=a56354ea-d0b0-47d2-abdc-a4d7eca5ce9e",
+        "service": "Diseño Gráfico",
+        "description": "Conocimientos y experiencia en herramientas de diseño gráfico tales como Photoshop e Illustrator. + Creacíon, edición de Videos.",
+        "service_en" :  "Graphic Design",
+        "description_en": "Knowledge and experience in graphic design tools such as Photoshop and Illustrator. + Creation, editing of Videos."
+    }
+]

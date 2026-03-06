@@ -1,3 +1,6 @@
+ADMIN DJANGO
+0 - Los módulos en el admin debe tener opciones basicas CRUD, ademas de filtros y busqueda. los campos id deben mostrarse en las listas de registros.
+
 
 MODELOS
 1 - Cuando se crea o se edita un modelo debe heredar de Timestamp /config/timestamps.py ya 
@@ -13,5 +16,5 @@ API REST
 .env como API_URL y API_PREFIX.
 
 4 - Para construir urlS de endpoints , siempre se usara el API_PREFIX. Por ejemplo 
-Si necesio una endpoint para consultar una lista de proyectos, la url sera API_PREFIX + "projects/" 
+Si necesito una endpoint para consultar una lista de proyectos, la url sera API_PREFIX + "projects/" 
 esto daría como resultado que cuando yo consulte mi api, la url sera /api/v1/projects/.

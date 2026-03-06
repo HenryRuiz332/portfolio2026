@@ -24,8 +24,8 @@ class DeletedListFilter(admin.SimpleListFilter):
 
 @admin.register(Project)
 class ProjectAdmin(admin.ModelAdmin):
-    list_display = ('name', 'created_at', 'deleted_at')
-    search_fields = ('name', 'description')
+    list_display = ('id', 'name', 'company', 'status', 'created_at', 'deleted_at')
+    search_fields = ('name', 'description', 'company', 'technologies')
     list_filter = (DeletedListFilter,)
     inlines = [ProjectImageInline]
     actions = ['restore_projects']

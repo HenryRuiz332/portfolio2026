@@ -13,6 +13,10 @@ class Project(Timestamp):
     description = models.TextField(null=True, blank=True)
     icon = models.CharField(max_length=100, null=True, blank=True)
     color = models.CharField(max_length=50, null=True, blank=True)
+    technologies = models.TextField(null=True, blank=True)
+    company = models.CharField(max_length=255, null=True, blank=True)
+    status = models.IntegerField(null=True, blank=True)
+    url_web = models.CharField(max_length=500, null=True, blank=True)
 
     objects = ProjectManager()
     all_objects = models.Manager()
