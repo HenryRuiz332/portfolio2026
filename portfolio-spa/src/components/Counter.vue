@@ -2,7 +2,7 @@
   <section class="ftco-section ftco-no-pt ftco-no-pb ftco-counter img" id="section-counter">
     <div class="container">
       <div class="row d-md-flex align-items-center">
-        <div v-for="(item, index) in counters" :key="index" class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+        <div v-for="(item, index) in counters" :key="index" class="col-md d-flex justify-content-center counter-wrap" data-aos="fade-up" data-aos-duration="1000">
           <div class="block-18">
             <div class="text">
               <strong class="number" :data-number="item.number">{{ item.currentValue }}</strong>

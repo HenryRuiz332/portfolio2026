@@ -7,8 +7,7 @@
     <Services />
     <Skills />
     <Projects />
-    <Blog />
-    <Counter />
+   
     <HireMe />
     <Contact />
     <Footer />

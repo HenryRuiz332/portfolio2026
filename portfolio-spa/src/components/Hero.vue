@@ -29,10 +29,10 @@
                       <div class="text" data-aos="fade-up" data-aos-duration="1000">
                         <span class="subheading" style="color: #ffbd39; font-weight: 600; font-size: 14px; letter-spacing: 3px; text-transform: uppercase; display: block; margin-bottom: 20px;">Hello!</span>
                         <h1 class="mb-4 mt-3" style="font-size: 60px; font-weight: 800; line-height: 1.2; color: #fff; margin-bottom: 30px !important;">
-                          I'm <span style="color: #ffbd39;">Clark Thompson</span>
+                          I'm <span style="color: #ffbd39;">Henry Ruiz</span>
                         </h1>
                         <h2 class="mb-4" style="font-size: 30px; font-weight: 400; color: #fff; margin-bottom: 30px !important;">
-                          A Freelance Web Designer
+                          A Software Developer
                         </h2>
                         <p>
                           <a href="#" class="btn btn-primary py-3 px-4" style="background: #ffbd39; border: 1px solid #ffbd39; color: #000; border-radius: 30px; padding: 12px 30px; text-transform: uppercase; font-weight: 600; font-size: 12px; letter-spacing: 2px;">Hire me</a>
@@ -62,7 +62,7 @@ import AOS from 'aos';
 const slides = ref([
   {
     image: bg1,
-    title: "I'm <span>Clark Thompson</span>",
+    title: "I'm <span>Henry Ruiz</span>",
     description: 'A Freelance Web Designer'
   },
   {
